@@ -3,7 +3,7 @@
     <networkAccess>
         <ipRanges>
             <end>80.103.13.84</end>
-            <start>80.103.13.84</start>
+            <start>80.103.13.85</start>
         </ipRanges>
     </networkAccess>
     <passwordPolicies>
