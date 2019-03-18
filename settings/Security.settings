@@ -2,7 +2,7 @@
 <SecuritySettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <networkAccess>
         <ipRanges>
-            <end>80.103.13.85</end>
+            <end>80.103.13.84</end>
             <start>80.103.13.84</start>
         </ipRanges>
     </networkAccess>
