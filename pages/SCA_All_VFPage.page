@@ -1,0 +1,11 @@
+<apex:page >
+	
+	<apex:outputLink value="/apex/otherpage.html">   //Bad: Hard-coded page link.
+  		This is a link to another page.
+  	</apex:outputLink>
+  	
+<!--  	<apex:outputLink value="{!$Page.otherPage}">  //Good: This is recommended.
+  		This is a link to another page.
+  	</apex:outputLink>-->
+
+</apex:page>
