@@ -65,6 +65,12 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>CCH_CompactLayout</fullName>
+        <fields>Name</fields>
+        <fields>Active__c</fields>
+        <label>CCH_CompactLayout</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <externalSharingModel>ReadWrite</externalSharingModel>
