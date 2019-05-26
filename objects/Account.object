@@ -226,6 +226,15 @@
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
+        <lookupFilter>
+            <active>true</active>
+            <filterItems>
+                <field>$Profile.Name</field>
+                <operation>equals</operation>
+                <value>Admin Copado</value>
+            </filterItems>
+            <isOptional>false</isOptional>
+        </lookupFilter>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
     </fields>
