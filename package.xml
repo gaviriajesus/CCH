@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>SelfSignedCert_26May2019_101618</members>
-        <name>Certificate</name>
+        <members>CCH_TrustedSite</members>
+        <name>CspTrustedSite</name>
     </types>
     <version>44.0</version>
 </Package>
