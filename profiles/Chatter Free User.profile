@@ -72,10 +72,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>BackpromoteTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>MetadataDataController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
