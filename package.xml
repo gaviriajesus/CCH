@@ -4,6 +4,7 @@
         <members>BackpromoteTest</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
+        <members>CommunitiesLandingController</members>
         <name>ApexClass</name>
     </types>
     <version>45.0</version>
