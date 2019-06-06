@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>BackpromoteTest</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
+        <members>CommunitiesSelfRegConfirmController</members>
+        <members>CommunitiesSelfRegConfirmControllerTest</members>
+        <members>CommunitiesSelfRegController</members>
+        <members>CommunitiesSelfRegControllerTest</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>LightningForgotPasswordController</members>
+        <members>LightningForgotPasswordControllerTest</members>
+        <members>LightningLoginFormController</members>
+        <members>LightningLoginFormControllerTest</members>
+        <members>LightningSelfRegisterController</members>
+        <members>LightningSelfRegisterControllerTest</members>
+        <members>MetadataDataController</members>
+        <members>MetadataDeployController</members>
+        <members>MetadataRetrieveController</members>
+        <members>MetadataServiceExamples</members>
+        <members>MetadataServicePatcher</members>
+        <members>MetadataServiceTest</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
+        <members>RemoteSiteHelperController</members>
+        <members>RemoteSiteHelperTest</members>
         <members>SCA_All_Class</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>TestPMD</members>
+        <members>myDemoClass</members>
+        <members>myDemoClassB</members>
+        <members>testJesusDeV</members>
+        <members>toAssignArtifact</members>
+        <members>toAssignArtifactTest</members>
         <name>ApexClass</name>
     </types>
     <version>45.0</version>
