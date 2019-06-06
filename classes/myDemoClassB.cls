@@ -6,10 +6,8 @@ public class myDemoClassB{
     }
     public void myBmethod(){
         system.debug('A1');    
-        a = 'aConflict1';
-        if(true)
-        system.debug('test');
+        a = 'aConflict2';
     }
 
-    //TEST ANGEL
+    //TEST "EL YISUS"
 }

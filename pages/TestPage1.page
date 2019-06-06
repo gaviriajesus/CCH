@@ -1,0 +1,4 @@
+<apex:page >
+TEST1
+<apex:outputText value="Potential XSS is {!$User.IsActive}" escape="false" />
+</apex:page>
