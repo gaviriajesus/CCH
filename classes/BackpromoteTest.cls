@@ -6,8 +6,9 @@ Public class BackpromoteTest{
         
         public BackpromoteTest (){
         
-          if(true)
+          if(true){
           system.debug('123');
+          }
         }
     
 }
