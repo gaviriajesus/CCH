@@ -3,7 +3,5 @@ public class SCA_All_Class {
     Integer otherField;
     
     public SCA_All_Class(){
-        if(true)
-            system.debug('asd');
     }
 }
