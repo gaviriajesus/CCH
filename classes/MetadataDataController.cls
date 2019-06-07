@@ -45,10 +45,12 @@ public with sharing class MetadataDataController
                 {
                     nodes.add(new FolderNode(metadataObject.xmlName, metadataObject.xmlName, false, null));
                     // Include child Metadata Types (such as CustomField, ValidationRule etc..)
-                    if(metadataObject.childXmlNames!=null)
+                    if(metadataObject.childXmlNames!=null){
                         for(String childXmlName : metadataObject.childXmlNames)
                             if(childXmlName!=null)
                                 nodes.add(new FolderNode(childXmlName, childXmlName, false, null));
+                        
+                    }
                 }
             }           
             else
