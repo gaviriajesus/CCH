@@ -5,6 +5,8 @@
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
         <name>ApexClass</name>
     </types>
     <version>45.0</version>
