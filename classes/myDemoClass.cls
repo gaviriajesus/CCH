@@ -1,6 +1,6 @@
 public class myDemoClass{
     //TEST US-0001644
-    public string a;
+    private string a;
     public void mymethod(){
         system.debug('A1//33///');    
         a = 'a';
@@ -10,7 +10,15 @@ public class myDemoClass{
         system.debug('TESTPROMOTEDEPLOY');    
         a = 'a';
         //JG was here
+        if(true)
+        system.debug('SCA');
+    }
+    public myDemoClass() {
+    mymethod();
+    
     }
     
     //JG CHange two attachment in selenium test run
+
+    //now in the real Repository
 }
