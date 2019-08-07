@@ -20,7 +20,5 @@ public class myDemoClass{
     
     //JG CHange two attachment in selenium test run
 
-    //test new user story
-
-    //community User test
+    //another Test
 }
