@@ -196,17 +196,16 @@ public class Buu {
     
 //NcssConstructorCount     
 
-public class Caa {
+public class Caa extends Bar {
     //this constructor only has 1 NCSS lines
     public Caa() {
-        Integer a;
-        
-        
-        
-        
-        Integer b;
-        
-	}
+        super();
+
+
+
+
+        super.cii();
+}
 }
     
 //NcssMethodCount     
@@ -274,13 +273,31 @@ public class Cii extends Bar {
            for (integer n = 0; n < h; n++) {
                 fiddle();
             }
+        } else if (e == f) {
+           for (integer n = 0; n < h; n++) {
+                fiddle();
+            }
+        } else if (e == f) {
+           for (integer n = 0; n < h; n++) {
+                fiddle();
+            }
+        } else if (e == f) {
+           for (integer n = 0; n < h; n++) {
+                fiddle();
+            }
+        } else if (e == f) {
+           for (integer n = 0; n < h; n++) {
+                fiddle();
+            }
+        } else if (e == f) {
+           for (integer n = 0; n < h; n++) {
+                fiddle();
+            }
         }
    }
    
     
 //TooManyFields 
-
-public class Person {
     // too many separate fields
     integer birthYear;
     integer birthMonth;
@@ -298,8 +315,12 @@ public class Person {
     double weight10;
     double weight11;
     double weight12;
+    double weight13;
+    double weight14;
+    double weight15;
+    double weight16;
     
-}
+    
 
 //ApexDoc 
 
@@ -403,7 +424,7 @@ public class MyClass {
     // this is OK because it is a constructor
     public MyClass() {}
     // this is bad because it is a method
-    public void MyClass() {}
+    public void SCA_QA() {}
 }    
     
 //AvoidDmlStatementsInLoops 
