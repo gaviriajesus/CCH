@@ -196,41 +196,39 @@ public class Buu {
     
 //NcssConstructorCount     
 
-public class Caa extends Bar {
-    //this constructor only has 1 NCSS lines
-    public Caa() {
-        super();
-
-
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        super.cii();
-}
-}
+    public SCA_QA (){
+        Integer a = 1;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;
+        a = a;        
+    }
     
 //NcssMethodCount     
 public class Cee {
