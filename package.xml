@@ -9,5 +9,5 @@
         <members>SCA_QA_Trigger</members>
         <name>ApexTrigger</name>
     </types>
-    <version>45.0</version>
+    <version>46.0</version>
 </Package>
