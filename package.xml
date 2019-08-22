@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>SCA_QA</members>
-        <members>SCA_QA_UnitTest</members>
-        <name>ApexClass</name>
+        <members>Account.Market__c</members>
+        <members>Opportunity.Market__c</members>
+        <name>CustomField</name>
     </types>
     <types>
-        <members>SCA_QA_Trigger</members>
-        <name>ApexTrigger</name>
+        <members>Market_Values</members>
+        <name>GlobalValueSet</name>
     </types>
     <version>46.0</version>
 </Package>
