@@ -9,7 +9,6 @@ public class myDemoClass{
     public void MyBmethod(){
         system.debug('TESTPROMOTEDEPLOY');    
         a = 'a';
-        //JG was here
         if(true)
         system.debug('SCA');
     }
@@ -17,8 +16,5 @@ public class myDemoClass{
     mymethod();
     
     }
-    
-    //JG CHange two attachment in selenium test run
-
-    //another Test asdas
+    //
 }
