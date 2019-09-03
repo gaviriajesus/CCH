@@ -17,6 +17,15 @@ public class myDemoClass{
     mymethod();
     
     }
-    
+
+    public void TraningMethod(){
+        system.debug('TESTPROMOTEDEPLOY');    
+        a = 'a';
+        //JG was here
+        if(true)
+        system.debug('SCA');
+    }    
+
+
     //JG CHange two attachment in selenium test run
 }
