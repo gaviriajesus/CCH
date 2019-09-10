@@ -4,5 +4,5 @@
     <internalUseOnly>false</internalUseOnly>
     <keywords>Copado Logo</keywords>
     <name>CopadoLogo</name>
-    <public>true</public>
+    <public>false</public>
 </Document>
