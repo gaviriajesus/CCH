@@ -8,5 +8,29 @@
         <plural>true</plural>
         <value>DX_Format_Objects</value>
     </caseValues>
+    <fields>
+        <label>El Picklist Spanish</label>
+        <name>Standard_Picklist_B__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>E</masterLabel>
+            <translation></translation>
+        </picklistValues>
+    </fields>
     <gender>Masculine</gender>
 </CustomObjectTranslation>
