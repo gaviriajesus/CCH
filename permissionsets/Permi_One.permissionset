@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <userLicense>Salesforce</userLicense>
     <fieldPermissions>
         <editable>false</editable>
         <field>DX_Format_Object__c.Global_Picklist_Value_Set__c</field>
